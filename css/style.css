@@ -1,0 +1,71 @@
+#navbarSupportedContent{
+   font-size: 20px;
+   font-weight: bold;
+}
+ .nav-item{
+    padding-left: 50px;
+}
+/*ABOUT*/
+#About{
+    background-color: beige;
+}
+ .me{
+    border-left : 20px solid #b8a07e;
+    border-bottom : 20px solid #b8a07e;
+    opacity: 1;
+ }
+ .con-text{
+     padding-top: 50px;
+ }
+/*PROJECTS*/
+#Projects{
+    background-color: beige;   
+}
+.our-projects{
+  width: 33.3%;
+  font-size: 40px; 
+  font-weight: bold;
+  font-family:'Fira Sans', sans-serif; 
+  padding-bottom: 50px;
+
+}
+
+.card{
+       
+    background-color: rgb(252, 252, 252);
+    font-weight: bold;
+    text-align:center;
+    
+    
+}
+.card img{
+    height: 200px; 
+   
+}
+
+/*Skills*/
+#Skills{
+    color: white;
+    background-color: rgb(59, 59, 51);  
+}
+.My-skills{
+    font-size: 40px; 
+    font-weight: bold;
+    font-family:'Fira Sans', sans-serif; 
+    padding-bottom: 50px;
+    text-align: center;
+
+}
+/*CONTACT*/
+#contact{
+    color: white;
+    background-color: rgb(59, 59, 51);  
+    padding-bottom: 50px;
+}
+.Get-touch{  
+    font-size: 40px; 
+    font-weight: bold;
+    font-family:'Fira Sans', sans-serif; 
+    padding-bottom: 50px;
+    text-align: center; 
+}
